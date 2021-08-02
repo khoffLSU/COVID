@@ -1,0 +1,11 @@
+pandas
+numpy
+tables
+matplotlib
+plotly
+datetime
+jupyter
+jupyterlab
+ipywidgets
+seaborn
+sklearn
